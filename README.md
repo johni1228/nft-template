@@ -9,13 +9,13 @@ Supported routes are the json and images.
 
 https://\<some-domain\>/api/v0/nfts/\<nftId\>
 
-e.g. https://little-computer.herokuapp.com/api/v0/nfts/0
+e.g. https://computer-nfts-api.herokuapp.com/api/v0/nfts/0
 
 **image url**
 
 https://\<some-domain\>/images/\<nftId\>.png
 
-e.g. https://little-computer.herokuapp.com/images/1.png
+e.g. https://computer-nfts-api.herokuapp.com/images/1.png
 
 
 
