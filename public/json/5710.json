@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "case",
+      "value": "Mid Tower"
+    },
+    {
+      "trait_type": "cpu",
+      "value": "INTEL"
+    },
+    {
+      "trait_type": "psu",
+      "value": "500"
+    },
+    {
+      "trait_type": "ram",
+      "value": "32"
+    },
+    {
+      "trait_type": "drive",
+      "value": "HDD"
+    },
+    {
+      "trait_type": "gpu",
+      "value": "RTX 3070"
+    }
+  ],
+  "description": "Little Computer OpenSea Creature",
+  "external_url": "",
+  "name": "Little Computer"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "case",
+      "value": "Mini Tower"
+    },
+    {
+      "trait_type": "cpu",
+      "value": "AMD"
+    },
+    {
+      "trait_type": "psu",
+      "value": "300"
+    },
+    {
+      "trait_type": "ram",
+      "value": "16"
+    },
+    {
+      "trait_type": "drive",
+      "value": "nVME"
+    },
+    {
+      "trait_type": "gpu",
+      "value": "RTX 3060"
+    }
+  ],
+  "description": "Little Computer OpenSea Creature",
+  "external_url": "",
+  "name": "Little Computer"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "case",
+      "value": "Mid Tower"
+    },
+    {
+      "trait_type": "cpu",
+      "value": "AMD"
+    },
+    {
+      "trait_type": "psu",
+      "value": "300"
+    },
+    {
+      "trait_type": "ram",
+      "value": "16"
+    },
+    {
+      "trait_type": "drive",
+      "value": "HDD"
+    },
+    {
+      "trait_type": "gpu",
+      "value": "RX 6800-XT"
+    }
+  ],
+  "description": "Little Computer OpenSea Creature",
+  "external_url": "",
+  "name": "Little Computer"
+}

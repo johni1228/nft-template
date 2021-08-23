@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "case",
+      "value": "Mini Tower"
+    },
+    {
+      "trait_type": "cpu",
+      "value": "AMD"
+    },
+    {
+      "trait_type": "psu",
+      "value": "500"
+    },
+    {
+      "trait_type": "ram",
+      "value": "16"
+    },
+    {
+      "trait_type": "drive",
+      "value": "HDD"
+    },
+    {
+      "trait_type": "gpu",
+      "value": "Radeon-VII"
+    }
+  ],
+  "description": "Little Computer OpenSea Creature",
+  "external_url": "",
+  "name": "Little Computer"
+}
